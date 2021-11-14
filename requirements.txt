@@ -1,0 +1,4 @@
+tensorflow
+scilearn
+flask
+matplotlib
