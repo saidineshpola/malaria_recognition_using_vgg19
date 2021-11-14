@@ -1,4 +1,4 @@
 tensorflow
-scilearn
+sklearn
 flask
 matplotlib
